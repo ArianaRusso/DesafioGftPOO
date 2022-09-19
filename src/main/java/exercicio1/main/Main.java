@@ -12,7 +12,7 @@ public class Main {
         veiculo.acelerar();
         System.out.println("Velocidade: " + veiculo.getVelocidade());
         veiculo.abastecer(25);
-        System.out.println("Litros de combustÃ­vel: "+veiculo.getLitrosCombustivel());
+        System.out.println("Litros de combustível: "+veiculo.getLitrosCombustivel());
         veiculo.frear();
         System.out.println("Velocidade: "+ veiculo.getVelocidade());
         veiculo.pintar("preto");
